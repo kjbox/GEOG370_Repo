@@ -1,1 +1,1 @@
-# GEOG370_hw2
+# GEOG 370 Homework 2
