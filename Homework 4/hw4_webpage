@@ -7,5 +7,10 @@
 </head>
 <body>
     <a href="./tile_layer/hw4_tile_html.html">Tile Map Link</a>
+    <h3>Image:</h3>
+    <a href="./hw4_print_layout.qpt">
+        <img src="./hw4_print_layout.qpt" alt="WGS84" width='500px'>
+    </a>
+    <a href="./gcp_chapel_hill.points">Points File</a>
 </body>
 </html>
